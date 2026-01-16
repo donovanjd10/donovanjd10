@@ -1,6 +1,6 @@
 ## Hi there, I'm Donovan. 👋
 
-Software Developer | Engineering Tech Background | Secret Clearance Eligible
+Software Developer | Engineering Tech Background | Secret Clearance (current/inactive)
 
 I am a Software Developer based in Idaho (Open to Relocation). I specialize in bridging the gap between hardware realities and software solutions.
 
