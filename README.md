@@ -2,7 +2,7 @@
 
 Software Developer | Engineering Tech Background | Secret Clearance Eligible
 
-I am an entry-level Software Developer based in Idaho (Open to Relocation). I specialize in bridging the gap between hardware realities and software solutions.
+I am a Software Developer based in Idaho (Open to Relocation). I specialize in bridging the gap between hardware realities and software solutions.
 
 Currently, I am building full-stack applications with Foundry, and doing backend development for a custom chat bot at Selkirk Sport, while finishing my BS in Computer Science at WGU.
 
