@@ -16,7 +16,7 @@ Hardware Roots: My time at Digital Force Technologies and Embry-Riddle gave me a
 
 Software Execution: I don't just write code; I build systems that solve business problems, from Palantir Foundry integrations to Python automations that save thousands in operational costs.
 
-Defense Ready: I understand the rigor required for defense & aerospace applications and I am Secret Clearance Eligible (Until ~June 2026).
+Defense Ready: I understand the rigor required for defense & aerospace applications and have been granted a Secret clearance (current/inactive).
 
 
 
