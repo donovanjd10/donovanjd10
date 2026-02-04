@@ -26,7 +26,7 @@ Defense Ready: I understand the rigor required for defense & aerospace applicati
 
 **Platforms & Tools:** Palantir Foundry, Supabase, Azure Container Apps, Redis.
 
-**Hardware & Interests:** Embedded and IoT Devices, Robotics, Defense systems, Meshtastic devices, Proof of Work Cryptography & Mining
+**Hardware & Interests:** Embedded and IoT Devices, Robotics, Defense systems
 
 
 
